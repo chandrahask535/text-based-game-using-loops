@@ -1,5 +1,3 @@
-# motioncut-task2
-
 Text-based Adventure Game Development
 
 # README: "Text-based Adventure Game"(TASK 2)
