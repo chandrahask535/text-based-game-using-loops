@@ -1,6 +1,6 @@
 Text-based Adventure Game Development
 
-# README: "Text-based Adventure Game"(TASK 2)
+# README: "Text-based Adventure Game"
 
 ## Author: CHANDRAHAS K
 
